@@ -1,4 +1,7 @@
 
+
+[![Build status](https://ci.appveyor.com/api/projects/status/6ivg5a8kswtvss8g?svg=true)](https://ci.appveyor.com/project/romansuvorkov/ahj-dom)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
